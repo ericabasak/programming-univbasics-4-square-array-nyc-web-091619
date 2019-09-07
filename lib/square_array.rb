@@ -1,6 +1,6 @@
 def square_array(array)
   a = 0
   
-  while 
+  while a < a.length do
   puts
 end
