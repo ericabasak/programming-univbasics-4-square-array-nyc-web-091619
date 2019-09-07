@@ -5,6 +5,5 @@ def square_array(array)
   while counter < array.length do
   results << array[i] **2
   counter +=1
-  end
   results
 end
