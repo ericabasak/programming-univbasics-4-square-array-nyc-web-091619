@@ -1,5 +1,5 @@
 def square_array(array)
-  n = [1, 4, 9]
+  a = 0
   
   while 
   puts
