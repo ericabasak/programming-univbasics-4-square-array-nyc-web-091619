@@ -6,3 +6,4 @@ def square_array(array)
   puts numbers ** 2
   counter += 1
 end
+end
